@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://willwongky.github.io/myblog/sitemap.xml
